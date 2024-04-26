@@ -1,0 +1,3 @@
+main(){
+  prinit("Hola Mundo");
+}
